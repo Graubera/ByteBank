@@ -77,7 +77,7 @@ namespace ByteBank.View
             //    {
             //        BtnProcessar.IsEnabled = true;
             //    }, UITask);
-            Debug.Write("EEI");
+            
 
         }
 
